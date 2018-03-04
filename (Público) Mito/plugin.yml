@@ -1,0 +1,8 @@
+name: iMito
+version: 1.0-SNAPSHOT
+author: iPaaulosz_
+main: com.paulomonteir0o.mito.Core
+
+commands:
+    mito:
+    

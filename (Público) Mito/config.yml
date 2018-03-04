@@ -1,0 +1,11 @@
+Mito: Nenhum...
+Mensagens:
+    VIROU_MITO: '&c&l[Mito] &7{novo_mito} tornou-se o novo mito do pvp.'
+    APENAS_JOGADORES: '&cComando apenas para jogadores.'
+    MITO_ATUAL: '&e&lIMITO: &eMito atual: &f{mito_atual}&e.'
+    MITO_SETADO: '&eMito setado para {mito_setado}.'
+    ARGS_INVALIDO: '&cUtilize: &f/mito set <player>&c.'
+    
+#Permissão do comando '/mito set <player>'
+Permissions:
+    ADMIN: 'imito.admin'
